@@ -14,7 +14,7 @@
 #navbar{
     position: fixed;
     width: fit-content;
-    height: 550px;
+    height: 520px;
     overflow: scroll;
 }
 
@@ -44,7 +44,7 @@
 }
 
 
-.main-section
+.main-section > header
  > h2{
     margin-left: 20px;
     margin-top: 25px;
